@@ -1,1 +1,1 @@
-lorem ipsum textlorem ipsum textlorem ipsum textlorem ipsum textlorem ipsum textlorem ipsum textlorem ipsum textlorem ipsum textlorem ipsum textlorem ipsum textlorem ipsum textlorem ipsum text 
+See the description of a "refspec" on the git push man page for more detail on how it works. Also note that both a force push and a reset are operations that "rewrite history", and shouldn't be attempted by the faint of heart unless you're absolutely sure you know what you're doing with respect to any remote repositories and other people who have forks/clones of the same project.
